@@ -1,0 +1,62 @@
+h1 {
+    color: blue;
+}
+
+.storycard{
+    margin: 2% 20% 2% 20%;
+    text-align: center;
+}
+
+.card{
+    height: 200px;
+}
+
+.mindpost{
+    margin-top: 5%;
+    background-color: white;
+}
+
+.firstline{
+    display: flex;
+    justify-content: center;
+    align-content: left;
+    padding: 3%;
+}
+
+.avatar{
+    display: inline-block;
+    padding-right: 2%;
+}
+
+.mind{
+    display: inline-block;
+}
+
+
+.mindInput{
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+     border-radius: 20px;
+     color: grey;
+     width: 40rem;
+     height: 30px;
+     padding-left: 10px;
+}
+
+.hline{
+    border-top: 1px solid #eee;
+}
+
+.buttonline{
+    display: flex;
+    justify-content: space-between;
+    padding: 3%;
+}
+
+.mindbuttons{
+    margin: 0 2% 0 2%;
+}
+
+.mindbutton{
+    margin-right: 5%;
+}
